@@ -1,4 +1,4 @@
-package controller;
+package com.helloSpring.HelloSpring.controller;
 
 import com.helloSpring.HelloSpring.domain.Member;
 import com.helloSpring.HelloSpring.service.MemberService;
